@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ad9a4b6f946eeb30df06aadf9ac55949",
+  "assets/AssetManifest.json": "a9397de619602d5f60d34c2839137a07",
 "assets/assets/4.epub": "b8a67544fe15842505ca4b7d5aec4ba0",
 "assets/assets/acccount1.png": "bc04f24d6c7113d3e7840f4d62456310",
 "assets/assets/alice.epub": "c3fb0267501e739bcaba03de24d1d974",
@@ -69,6 +69,8 @@ const RESOURCES = {
 "assets/assets/chris.jpg": "90e94d11010497e7229bc4ff10016d96",
 "assets/assets/civicsIcon.png": "dcc26d79d62afb6767e7304df3b08a88",
 "assets/assets/classnotes.jpg": "491c0a93904820947bfde5aecb45a6ff",
+"assets/assets/class_10_economics_chapter_1.epub": "5439466023920d1b16a65c87957ebf67",
+"assets/assets/class_10_Updated.epub": "5439466023920d1b16a65c87957ebf67",
 "assets/assets/collbooks1.jpg": "693bdb0c1083cdec056b4d2e2055a7ab",
 "assets/assets/collbooks2.png": "70a9b7c23c95bf46dc24b8128aafece0",
 "assets/assets/collbooks3.png": "cacf5575399fb9664589e553480f3f65",
@@ -371,7 +373,7 @@ const RESOURCES = {
 "assets/packages/flutter_tex/js/katex/fonts/KaTeX_Typewriter-Regular.woff": "b636fa487ef5e2f56bb3529bc9168be0",
 "assets/packages/flutter_tex/js/katex/fonts/KaTeX_Typewriter-Regular.woff2": "8073cf012f453ddf47d5b8776f6bb1e5",
 "assets/packages/flutter_tex/js/katex/index.html": "f0b07d87f116752c2c8de2882f9db878",
-"/": "336d7d55aff100aa64cbdbdc1335b15a",
+"/": "9c318812a4b86187fcdc2d85de269875",
 "assets/packages/flutter_tex/js/katex/katex.css": "cf85eb8b74953ecc5b3685c0969b4349",
 "assets/packages/flutter_tex/js/katex/katex.js": "6a42d26befadf4cadea19a9978c48396",
 "assets/packages/flutter_tex/js/katex/katex.min.css": "f9417c96e906891af6c4153115f0e471",
@@ -534,8 +536,8 @@ const RESOURCES = {
 "icons/Icon-512x512.png": "3382d162605ab3a0adfcf01d873de3f3",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "336d7d55aff100aa64cbdbdc1335b15a",
-"main.dart.js": "6b6bc2e6422d03344030637c1521b2ab",
+"index.html": "9c318812a4b86187fcdc2d85de269875",
+"main.dart.js": "19ffc1ac19546b86ae75403a68a65a4f",
 "manifest.json": "7c1755639acc82966595d21d15d7588c",
 "version.json": "6815ab0d7ae1779095c4acd42a9b8068"
 };
